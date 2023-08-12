@@ -1,0 +1,89 @@
+{
+	"body":
+	{
+		"Kolkata":
+		{
+			"Bengali":
+			{
+				"Fatema":
+				{
+					"Nazrultirtha Cinema - Newtown": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Radha Studio - Tollygunge": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"Ardhangini":
+				{
+					"SVF - Narendrapur": ["3:00 PM", "7:30 PM"],
+					"INOX - CC2": ["5:30 PM", "8:30 PM"]
+				}
+			},
+			"Hindi":
+			{
+				"Gadar2":
+				{
+					"Ashoka Cinema - Behala": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Bioscope Axis Mall - Rajarhat": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"OMG2":
+				{
+					"Hind INOX - Kolkata": ["3:00 PM", "7:30 PM"],
+					"INOX CC - Saltlake": ["5:30 PM", "8:30 PM"]
+				}
+			},
+			"English":
+			{
+				"Oppenheimer":
+				{
+					"Miraj Cinema - Newtown": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Cinepolis Acropolis Mall - Kolkata": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"Talk To Me(2023)":
+				{
+					"Hind INOX - Kolkata": ["3:00 PM", "7:30 PM"],
+					"INOX Quest Mall": ["10:00 AM", "8:30 PM"]
+				}
+			}
+		},
+		"Mumbai":
+		{
+			"Bengali":
+			{
+				"Fatema":
+				{
+					"Nazrultirtha Cinema - Newtown": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Radha Studio - Tollygunge": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"Ardhangini":
+				{
+					"SVF - Narendrapur": ["3:00 PM", "7:30 PM"],
+					"INOX - CC2": ["5:30 PM", "8:30 PM"]
+				}
+			},
+			"Hindi":
+			{
+				"Gadar2":
+				{
+					"Ashoka Cinema - Behala": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Bioscope Axis Mall - Rajarhat": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"OMG2":
+				{
+					"Hind INOX - Kolkata": ["3:00 PM", "7:30 PM"],
+					"INOX CC - Saltlake": ["5:30 PM", "8:30 PM"]
+				}
+			},
+			"English":
+			{
+				"Oppenheimer":
+				{
+					"Miraj Cinema - Newtown": ["9:30 AM", "12:30 PM", "3:30 PM"],
+					"Cinepolis Acropolis Mall - Kolkata": ["10:30 AM", "1:30 PM", "3:30 PM"]
+				},
+				"Talk To Me(2023)":
+				{
+					"Hind INOX - Kolkata": ["3:00 PM", "7:30 PM"],
+					"INOX Quest Mall": ["10:00 AM", "8:30 PM"]
+				}
+			}
+		}
+	}
+}
