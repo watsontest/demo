@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "Movie": "Oppenheimer",
+    "Place": "Kolkata",
+    "ShowTime": "1:00 PM",
+    "CinemaHall": "Nazrul Tirtha"
+  },
+  {
+    "id": 2,
+    "Movie": "Oppenheimer",
+    "Place": "Kolkata",
+    "ShowTime": "3:00 PM",
+    "CinemaHall": "Nazrul Tirtha"
+  },
+  {
+    "id": 3,
+    "Movie": "Oppenheimer",
+    "Place": "Kolkata",
+    "ShowTime": "7:00 PM",
+    "CinemaHall": "Nazrul Tirtha"
+  },
+  {
+    "id": 4,
+    "Movie": "Gadar2",
+    "Place": "Kolkata",
+    "ShowTime": "5:00 PM",
+    "CinemaHall": "RDB Cinemas"
+  },
+  {
+    "id": 5,
+    "Movie": "Gadar2",
+    "Place": "Kolkata",
+    "ShowTime": "8:00 PM",
+    "CinemaHall": "RDB Cinemas"
+  },
+  {
+    "id": 6,
+    "Movie": "OMG2",
+    "Place": "Kolkata",
+    "ShowTime": "2:30 PM",
+    "CinemaHall": "Quest Mall"
+  },
+  {
+    "id": 7,
+    "Movie": "OMG2",
+    "Place": "Kolkata",
+    "ShowTime": "5:00 PM",
+    "CinemaHall": "Quest Mall"
+  },
+  {
+    "id": 8,
+    "Movie": "OMG2",
+    "Place": "Kolkata",
+    "ShowTime": "7:30 PM",
+    "CinemaHall": "Quest Mall"
+  },
+  {
+    "id": 9,
+    "Movie": "",
+    "Place": null,
+    "ShowTime": null,
+    "CinemaHall": null
+  }
+]
